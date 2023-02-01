@@ -1,0 +1,14 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+h2 {
+    color:aqua;
+}
+a {
+    width: 400px;
+    border-radius: 30px;
+    color: blue;
+    background-color:lawngreen;
+    font-size: 30px;
+}
